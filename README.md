@@ -21,4 +21,4 @@ Technical features:
 
 
 # output
-<img src="(https://github.com/varunbagga19/CryptoTracker/assets/70323070/e3e412fa-2f6c-4e08-9337-aac21831e247" width='50' height='50'>
+<img src="(https://github.com/varunbagga19/CryptoTracker/assets/70323070/e3e412fa-2f6c-4e08-9337-aac21831e247" width='100' height='100'>
